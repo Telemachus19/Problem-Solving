@@ -27,9 +27,9 @@
 
 ### Level 1: The First Steps
 
-- [ ] [Watermelon (4A)](https://codeforces.com/problemset/problem/4/A)
-- [ ] [Team (231A)](https://codeforces.com/problemset/problem/231/A)
-- [ ] [Way Too Long Words (71A)](https://codeforces.com/problemset/problem/71/A)
+- [x] [Watermelon (4A)](https://codeforces.com/problemset/problem/4/A)
+- [x] [Team (231A)](https://codeforces.com/problemset/problem/231/A)
+- [x] [Way Too Long Words (71A)](https://codeforces.com/problemset/problem/71/A)
 - [ ] [Next Round (158A)](https://codeforces.com/problemset/problem/158/A)
 - [ ] [Domino piling (50A)](https://codeforces.com/problemset/problem/50/A)
 - [ ] [Bit++ (282A)](https://codeforces.com/problemset/problem/282/A)
@@ -77,7 +77,7 @@
 - [ ] [Hulk (705A)](https://codeforces.com/problemset/problem/705/A)
 - [ ] [Divisibility Problem (1328A)](https://codeforces.com/problemset/problem/1328/A)
 
-### Level 5: The Boss Fights (Simulations & Greedy)
+### Level 5: Simulations & Greedy
 
 - [ ] [Hit the Lottery (996A)](https://codeforces.com/problemset/problem/996/A)
 - [ ] [Candies and Two Sisters (1335A)](https://codeforces.com/problemset/problem/1335/A)
