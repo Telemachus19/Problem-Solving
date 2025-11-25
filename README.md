@@ -8,6 +8,7 @@
 
 - [x] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [ ] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+- [ ] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 - [x] [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 - [x] [1018. Binary Previx Divisible by 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)
 - [x] [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
@@ -16,10 +17,12 @@
 
 ### Medium Problems
 
-![Progress](https://progress-bar.xyz/0/?style=minimal-matte)
+![Progress](https://progress-bar.xyz/33/?style=minimal-matte)
 
 - [ ] [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)
+- [x] [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/?envType=daily-question&envId=2025-11-25)
 - [ ] [1262. greatest sum divisible by three](https://leetcode.com/problems/greatest-sum-divisible-by-three)
+
 
 ### Hard Problems
 
