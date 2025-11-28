@@ -22,7 +22,7 @@
 - [ ] [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)
 - [x] [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/?envType=daily-question&envId=2025-11-25)
 - [ ] [1262. greatest sum divisible by three](https://leetcode.com/problems/greatest-sum-divisible-by-three)
-- [ ] [3381. Maximum Subarray Sum With Length Divisible by K](maximum-subarray-sum-with-length-divisible-by-k)
+- [x] [3381. Maximum Subarray Sum With Length Divisible by K](maximum-subarray-sum-with-length-divisible-by-k)
 
 ### Hard Problems
 
