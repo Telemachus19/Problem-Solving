@@ -33,6 +33,9 @@
 
 ### Level 1: The First Steps
 
+![Progress](https://progress-bar.xyz/42/?style=minimal-matte)
+
+- [x] [266B. Queue at the School](https://codeforces.com/problemset/problem/266/B)
 - [x] [Young Physicist (69A)](https://codeforces.com/problemset/problem/69/A)
 - [x] [Watermelon (4A)](https://codeforces.com/problemset/problem/4/A)
 - [x] [Team (231A)](https://codeforces.com/problemset/problem/231/A)
