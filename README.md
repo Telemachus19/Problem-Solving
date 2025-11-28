@@ -9,6 +9,9 @@
 - [x] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [x] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+- [ ] [0020-valid-parentheses]()
+
+- [ ] [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [x] [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 - [x] [1018. Binary Previx Divisible by 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)
 - [x] [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
@@ -30,6 +33,7 @@
 
 ### Level 1: The First Steps
 
+- [x] [Young Physicist (69A)](https://codeforces.com/problemset/problem/69/A)
 - [x] [Watermelon (4A)](https://codeforces.com/problemset/problem/4/A)
 - [x] [Team (231A)](https://codeforces.com/problemset/problem/231/A)
 - [x] [Way Too Long Words (71A)](https://codeforces.com/problemset/problem/71/A)
