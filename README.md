@@ -91,9 +91,19 @@
 
 ###### S1
 
-- [x] [A. Say Hello With C++][https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A]
-- [x] [B. ]
-- [x] [Z. Hard Compare][https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z]
+- [x] [A. Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A)
+- [x] [B. Basic Data Types ](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)
+- [x] [C. Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
+- [x] [D. Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D)
+- [x] [E. Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E)
+- [x] [F. Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
+- [x] [G. Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
+- [x] [H. Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H)
+- [x] [I. Welcome for you with Conditions](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)
+- [x] [J. Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)
+- [x] [K. Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)
+- [x] [L. The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L)
+- [x] [Z. Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
 ### Level 2: Conditions & Logic
 
