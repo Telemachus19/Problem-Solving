@@ -45,28 +45,28 @@
 - [ ] [Lights Out]
 - [ ] [Word]
 - [x] [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A)
-- [ ] [Nearly Lucky Number]
-- [ ] [Stones on the Table]
-- [ ] [Panoramix's Prediction]
-- [ ] [Ultra-Fast Mathematician]
-- [ ] [Perfect Permutation]
-- [ ] [Arrival of the General]
-- [ ] [Drinks]
-- [ ] [Insomnia cure]
-- [ ] [Cupboards]
-- [ ] [`I_love_\%username\%`]
-- [ ] [Tram]
-- [ ] [Helpful Maths]
-- [ ] [Is your horseshoe on the other hoof?]
+- [ ] [110A. Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)
+- [ ] [266A. Stones on the Table](http://codeforces.com/problemset/problem/266/A)
+- [ ] [80. Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)
+- [ ] [61A. Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)
+- [ ] [233A. Perfect Permutation](http://codeforces.com/problemset/problem/233/A)
+- [ ] [144A. Arrival of the General](http://codeforces.com/problemset/problem/144/A)
+- [ ] [200B. Drinks](http://codeforces.com/problemset/problem/200/B)
+- [ ] [148A. Insomnia cure](http://codeforces.com/problemset/problem/148/A)
+- [ ] [248A. Cupboards](http://codeforces.com/problemset/problem/248/A)
+- [ ] [155A. `I_love_\%username\%`](http://codeforces.com/problemset/problem/155/A)
+- [ ] [116A. Tram](http://codeforces.com/problemset/problem/116/A)
+- [ ] [339A. Helpful Maths](http://codeforces.com/problemset/problem/339/A)
+- [ ] [228A. Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)
 - [x] [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)
-- [ ] [Boy or Girl]
-- [ ] [Amusing Joke]
-- [ ] [Soft Drinking]
-- [ ] [HQ9+]
+- [ ] [236A. Boy or Girl](http://codeforces.com/problemset/problem/236/A)
+- [ ] [141A. Amusing Joke](http://codeforces.com/problemset/problem/141/A)
+- [ ] [151A. Soft Drinking](http://codeforces.com/problemset/problem/151/A)
+- [ ] [133A. HQ9+](http://codeforces.com/problemset/problem/133/A)
 - [x] [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)
 - [x] [231A. Team](https://codeforces.com/problemset/problem/231/A)
 - [x] [282A. Bit++](https://codeforces.com/problemset/problem/282/A)
-- [] [Effective Approach]
+- [] [227B. Effective Approach](http://codeforces.com/problemset/problem/227/B)
 
 ### Level 1: The First Steps
 
