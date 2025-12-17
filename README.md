@@ -35,10 +35,38 @@
 
 #### Difficulty Level: 2
 
+![Progress](https://progress-bar.xyz/8/?style=minimal-matte)
+
 - [x] [69A. Young Physicist](https://codeforces.com/problemset/problem/69/A)
 - [x] [263A. Beautiful Matrix ](https://codeforces.com/problemset/problem/263/A)
 - [x] [266B. Queue at the School](https://codeforces.com/problemset/problem/266/B)
+- [ ] [32B. Borze](https://codeforces.com/problemset/problem/32/B)
+- [ ] [Beautiful Year]
+- [ ] [Lights Out]
+- [ ] [Word]
 - [x] [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A)
+- [ ] [Nearly Lucky Number]
+- [ ] [Stones on the Table]
+- [ ] [Panoramix's Prediction]
+- [ ] [Ultra-Fast Mathematician]
+- [ ] [Perfect Permutation]
+- [ ] [Arrival of the General]
+- [ ] [Drinks]
+- [ ] [Insomnia cure]
+- [ ] [Cupboards]
+- [ ] [`I_love_\%username\%`]
+- [ ] [Tram]
+- [ ] [Helpful Maths]
+- [ ] [Is your horseshoe on the other hoof?]
+- [x] [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)
+- [ ] [Boy or Girl]
+- [ ] [Amusing Joke]
+- [ ] [Soft Drinking]
+- [ ] [HQ9+]
+- [x] [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)
+- [x] [231A. Team](https://codeforces.com/problemset/problem/231/A)
+- [x] [282A. Bit++](https://codeforces.com/problemset/problem/282/A)
+- [] [Effective Approach]
 
 ### Level 1: The First Steps
 
@@ -52,7 +80,7 @@
 - [ ] [Next Round (158A)](https://codeforces.com/problemset/problem/158/A)
 - [ ] [Domino piling (50A)](https://codeforces.com/problemset/problem/50/A)
 - [x] [Beautiful Matrix (263A)](https://codeforces.com/problemset/problem/263/A)
-- [ ] [Bit++ (282A)](https://codeforces.com/problemset/problem/282/A)
+- [x] [Bit++ (282A)](https://codeforces.com/problemset/problem/282/A)
 - [ ] [Elephant (617A)](https://codeforces.com/problemset/problem/617/A)
 - [ ] [Soldier and Bananas (546A)](https://codeforces.com/problemset/problem/546/A)
 - [ ] [Bear and Big Brother (791A)](https://codeforces.com/problemset/problem/791/A)
