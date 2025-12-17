@@ -31,6 +31,15 @@
 
 ## CodeFoces
 
+### AOJ Ladders
+
+#### Difficulty Level: 2
+
+- [x] [69A. Young Physicist](https://codeforces.com/problemset/problem/69/A)
+- [x] [263A. Beautiful Matrix ](https://codeforces.com/problemset/problem/263/A)
+- [x] [266B. Queue at the School](https://codeforces.com/problemset/problem/266/B)
+- [x] [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A)
+
 ### Level 1: The First Steps
 
 ![Progress](https://progress-bar.xyz/42/?style=minimal-matte)
@@ -42,11 +51,21 @@
 - [x] [Way Too Long Words (71A)](https://codeforces.com/problemset/problem/71/A)
 - [ ] [Next Round (158A)](https://codeforces.com/problemset/problem/158/A)
 - [ ] [Domino piling (50A)](https://codeforces.com/problemset/problem/50/A)
+- [x] [Beautiful Matrix (263A)](https://codeforces.com/problemset/problem/263/A)
 - [ ] [Bit++ (282A)](https://codeforces.com/problemset/problem/282/A)
-- [ ] [Beautiful Matrix (263A)](https://codeforces.com/problemset/problem/263/A)
 - [ ] [Elephant (617A)](https://codeforces.com/problemset/problem/617/A)
 - [ ] [Soldier and Bananas (546A)](https://codeforces.com/problemset/problem/546/A)
 - [ ] [Bear and Big Brother (791A)](https://codeforces.com/problemset/problem/791/A)
+
+#### Groups
+
+##### ICPC Assiut University Community
+
+###### S1
+
+- [x] [A. Say Hello With C++][https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A]
+- [x] [B. ]
+- [x] [Z. Hard Compare][https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z]
 
 ### Level 2: Conditions & Logic
 
