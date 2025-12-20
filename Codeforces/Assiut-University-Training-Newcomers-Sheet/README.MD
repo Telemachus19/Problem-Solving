@@ -1,0 +1,61 @@
+##### ICPC Assiut University Community
+
+###### S1
+
+- [x] [A. Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A)
+- [x] [B. Basic Data Types ](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)
+- [x] [C. Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
+- [x] [D. Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D)
+- [x] [E. Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E)
+- [x] [F. Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
+- [x] [G. Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
+- [x] [H. Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H)
+- [x] [I. Welcome for you with Conditions](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)
+- [x] [J. Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)
+- [x] [K. Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)
+- [x] [L. The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L)
+- [x] [M. Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)
+- [x] [N. Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N)
+- [x] [ ]
+- [x] [Z. Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
+
+###### C1
+
+- [x] [A. Winter Sale](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A)
+- [x] [B. Memo and Momo](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B)
+- [x] [C. Next Alphabet](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C)
+- [x] [D. Ali Baba and Puzzles](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D)
+- [x] [E. Interval Sweep](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E)
+- [x] [F. Adding Bits](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F)
+- [x] [G. Katryoshka](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G)
+- [x] [H. Data Type Guessing](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H)
+- [x] [I. Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I)
+
+###### S2
+
+- [x] [A. 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A)
+- [x] [B. Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B)
+- [x] [C. Even,Odd,Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C)
+- [x] [D. Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D)
+- [x] [E. Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)
+- [x] [F. Multiplication Table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F)
+- [x] [G. Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)
+- [x] [H. One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H)
+- [x] [I. Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I)
+- [x] [J. Primes from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J)
+- [x] [K. Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K)
+- [x] [L. GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L)
+- [x] [M. Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)
+- [x] [N. Numbers Historgram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
+- [x] [O. Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O)
+- [x] [P. Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P)
+- [x] [Q. Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
+- [x] [R. Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R)
+- [x] [S. Sum of consecutive odd numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S)
+- [x] [T. Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T)
+- [x] [U. Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U)
+- [x] [V. Pum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V)
+- [x] [W. Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W)
+- [x] [X. Convert to Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)
+- [x] [Y. Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)
+- [x] [Z. Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
