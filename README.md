@@ -10,7 +10,6 @@
 - [x] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 - [ ] [0020-valid-parentheses]()
-
 - [ ] [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [x] [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 - [x] [1018. Binary Previx Divisible by 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)
@@ -103,13 +102,28 @@
 - [x] [J. Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)
 - [x] [K. Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)
 - [x] [L. The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L)
+- [x] [M. Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)
+- [x] [N. Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N)
+- [x] [ ]
 - [x] [Z. Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
+
+###### C1
+
+- [x] [A. Winter Sale](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A)
+- [x] [B. Memo and Momo](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B)
+- [x] [C. Next Alphabet](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C)
+- [x] [D. Ali Baba and Puzzles](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D)
+- [x] [E. Interval Sweep](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E)
+- [x] [F. Adding Bits](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F)
+- [x] [G. Katryoshka](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G)
+- [x] [H. Data Type Guessing](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H)
+- [x] [I. Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I)
 
 ### Level 2: Conditions & Logic
 
 - [ ] [Stones on the Table (266A)](https://codeforces.com/problemset/problem/266/A)
 - [ ] [Boy or Girl (236A)](https://codeforces.com/problemset/problem/236/A)
-- [ ] [Word Capitalization (281A)](https://codeforces.com/problemset/problem/281/A)
+- [x] [Word Capitalization (281A)](https://codeforces.com/problemset/problem/281/A)
 - [ ] [Wrong Subtraction (977A)](https://codeforces.com/problemset/problem/977/A)
 - [ ] [Nearly Lucky Number (110A)](https://codeforces.com/problemset/problem/110/A)
 - [ ] [Tram (116A)](https://codeforces.com/problemset/problem/116/A)
