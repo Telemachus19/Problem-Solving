@@ -1,6 +1,6 @@
-##### ICPC Assiut University Community
+# ICPC Assiut University Community
 
-###### S1
+## S1
 
 - [x] [A. Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A)
 - [x] [B. Basic Data Types ](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)
@@ -16,10 +16,20 @@
 - [x] [L. The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L)
 - [x] [M. Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)
 - [x] [N. Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N)
-- [x] [ ]
+- [x] [O. Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O)
+- [x] [P. First Digit!](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P)
+- [x] [Q. Coordinates of a Point](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q)
+- [x] [R. Age in Days](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R)
+- [x] [S. Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S)
+- [x] [T. Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T)
+- [x] [U. Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U)
+- [x] [V. Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)
+- [x] [W. Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)
+- [x] [X. Two Intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)
+- [x] [Y. The Last 2 Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
 - [x] [Z. Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
-###### C1
+## C1
 
 - [x] [A. Winter Sale](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A)
 - [x] [B. Memo and Momo](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B)
@@ -31,7 +41,7 @@
 - [x] [H. Data Type Guessing](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H)
 - [x] [I. Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I)
 
-###### S2
+## S2
 
 - [x] [A. 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A)
 - [x] [B. Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B)
