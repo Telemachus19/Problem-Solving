@@ -1,16 +1,21 @@
 #include <iostream>
-int main() {
+int main()
+{
   using namespace std;
   int t = 0, x = 0;
   string c;
   cin >> t;
-  while (t > 0) {
+  while (t > 0)
+  {
     cin >> c;
     for (int i = 0; i < 3; i++)
-      if (c[i] == '+') {
+      if (c[i] == '+')
+      {
         x++;
         break;
-      } else if (c[i] == '-') {
+      }
+      else if (c[i] == '-')
+      {
         x--;
         break;
       }

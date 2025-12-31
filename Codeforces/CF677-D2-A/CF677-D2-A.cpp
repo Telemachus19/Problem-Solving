@@ -15,6 +15,6 @@ int main()
         res += (temp <= h) ? 1 : 2;
     }
     cout << res;
-    
+
     return 0;
 }

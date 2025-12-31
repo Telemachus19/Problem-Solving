@@ -4,7 +4,8 @@
 #include <utility>
 using namespace std;
 
-int main() {
+int main()
+{
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
 
@@ -13,9 +14,12 @@ int main() {
   cin >> n >> t;
   cin >> queue;
   str_len = queue.length();
-  while (t--) {
-    for (int i = 0; i < str_len - 1; i++) {
-      if (queue[i] == 'B' && queue[i + 1] == 'G') {
+  while (t--)
+  {
+    for (int i = 0; i < str_len - 1; i++)
+    {
+      if (queue[i] == 'B' && queue[i + 1] == 'G')
+      {
         swap(queue[i], queue[i + 1]);
         i++;
       }
