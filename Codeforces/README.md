@@ -26,6 +26,23 @@
 
 ---
 
+- [ ] [CF732-D2-A](http://codeforces.com/contest/732/problem/A)
+- [ ] [CF228-D2-A](http://codeforces.com/contest/228/problem/A)
+- [ ] [CF265-D2-A](http://codeforces.com/contest/265/problem/A)
+- [ ] [CF9-D2-A](http://codeforces.com/contest/9/problem/A)
+- [ ] [CF294-D2-A](http://codeforces.com/contest/294/problem/A)
+- [ ] [CF709-D2-A](http://codeforces.com/contest/709/problem/A)
+- [ ] [CF799-D2-A](http://codeforces.com/contest/799/problem/A)
+- [ ] [CF443-D2-A](http://codeforces.com/contest/443/problem/A)
+- [ ] [CF71-D2-A](http://codeforces.com/contest/71/problem/A)
+- [ ] [CF686-D2-A](http://codeforces.com/contest/686/problem/A)
+- [ ] [CF339-D2-A](http://codeforces.com/contest/339/problem/A)
+- [ ] [CF490-D2-A](http://codeforces.com/contest/490/problem/A)
+- [ ] [CF770-D2-A](http://codeforces.com/contest/770/problem/A)
+
+---
+
+
 
 ## AOJ Ladders
 
