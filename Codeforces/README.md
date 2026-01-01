@@ -9,10 +9,10 @@
 
 --- 
 
-- [ ] [CF791-D2-A](http://codeforces.com/contest/791/problem/A)
-- [ ] [CF231-D2-A](http://codeforces.com/contest/231/problem/A)
-- [ ] [CF263-D2-A](http://codeforces.com/contest/263/problem/A)
-- [ ] [CF405-D2-A](http://codeforces.com/contest/405/problem/A)
+- [x] [CF791-D2-A](http://codeforces.com/contest/791/problem/A)
+- [x] [CF231-D2-A](http://codeforces.com/contest/231/problem/A)
+- [x] [CF263-D2-A](http://codeforces.com/contest/263/problem/A)
+- [x] [CF405-D2-A](http://codeforces.com/contest/405/problem/A)
 - [ ] [CF112-D2-A](http://codeforces.com/contest/112/problem/A)
 - [ ] [CF236-D2-A](http://codeforces.com/contest/236/problem/A)
 - [ ] [CF59-D2-A](http://codeforces.com/contest/59/problem/A)
