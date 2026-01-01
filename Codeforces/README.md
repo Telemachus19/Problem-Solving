@@ -15,7 +15,7 @@
 - [x] [CF405-D2-A](http://codeforces.com/contest/405/problem/A)
 - [x] [CF112-D2-A](http://codeforces.com/contest/112/problem/A)
 - [x] [CF236-D2-A](http://codeforces.com/contest/236/problem/A)
-- [ ] [CF59-D2-A](http://codeforces.com/contest/59/problem/A)
+- [x] [CF59-D2-A](http://codeforces.com/contest/59/problem/A)
 - [ ] [CF344-D2-A](http://codeforces.com/contest/344/problem/A)
 - [ ] [CF381-D2-A](http://codeforces.com/contest/381/problem/A)
 - [ ] [CF266-D2-A](http://codeforces.com/contest/266/problem/A)
@@ -113,7 +113,7 @@
 
 ### Level 3: String Manipulation
 
-- [ ] [Word (59A)](https://codeforces.com/problemset/problem/59/A)
+- [x] [Word (59A)](https://codeforces.com/problemset/problem/59/A)
 - [ ] [Translation (41A)](https://codeforces.com/problemset/problem/41/A)
 - [x] [Anton and Danik (734A)](https://codeforces.com/problemset/problem/734/A)
 - [ ] [Pangram (520A)](https://codeforces.com/problemset/problem/520/A)
