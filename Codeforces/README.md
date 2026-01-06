@@ -19,8 +19,8 @@
 - [x] [CF344-D2-A](http://codeforces.com/contest/344/problem/A)
 - [x] [CF381-D2-A](http://codeforces.com/contest/381/problem/A)
 - [x] [CF266-D2-A](http://codeforces.com/contest/266/problem/A)
-- [ ] [CF427-D2-A](http://codeforces.com/contest/427/problem/A)
-- [ ] [CF431-D2-A](http://codeforces.com/contest/431/problem/A)
+- [x] [CF427-D2-A](http://codeforces.com/contest/427/problem/A)
+- [x] [CF431-D2-A](http://codeforces.com/contest/431/problem/A)
 - [ ] [CF731-D2-A](http://codeforces.com/contest/731/problem/A)
 - [ ] [CF268-D2-A](http://codeforces.com/contest/268/problem/A)
 
