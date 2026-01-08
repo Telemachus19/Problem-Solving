@@ -87,6 +87,21 @@
 - [ ] [CF80-D2-A](http://codeforces.com/contest/80/problem/A)
 - [ ] [CF483-D2-A](http://codeforces.com/contest/483/problem/A)
 
+### B 
+
+With more focus on data structures and combinatorics
+
+- [ ] [CF66-D2-B](http://codeforces.com/contest/66/problem/B)
+- [ ] [CF680-D2-B](http://codeforces.com/contest/680/problem/B)
+- [ ] [CF16-D2-B](http://codeforces.com/contest/16/problem/B)
+- [ ] [CF463-D2-B](http://codeforces.com/contest/463/problem/B)
+- [ ] [CF102-D2-B](http://codeforces.com/contest/102/problem/B)
+- [ ] [CF47-D2-B](http://codeforces.com/contest/47/problem/B)
+- [ ] [CF227-D2-B](http://codeforces.com/contest/227/problem/B)
+- [ ] [CF78-D2-B](http://codeforces.com/contest/78/problem/B)
+- [ ] [CF746-D2-B](http://codeforces.com/contest/746/problem/B)
+
+--- 
 
 ## AOJ Ladders
 
@@ -103,7 +118,7 @@
 - [ ] [CF59-D2-A](https://codeforces.com/problemset/problem/59/A)
 - [x] [CF281-D2-A](https://codeforces.com/problemset/problem/281/A)
 - [ ] [CF110-D2-A](http://codeforces.com/problemset/problem/110/A)
-- [ ] [CF266-D2-A](http://codeforces.com/problemset/problem/266/A)
+- [X] [CF266-D2-A](http://codeforces.com/problemset/problem/266/A)
 - [ ] [CF80-D2-A](http://codeforces.com/problemset/problem/80/A)
 - [ ] [CF61-D2-A](http://codeforces.com/problemset/problem/61/A)
 - [ ] [CF233-D2-A](http://codeforces.com/problemset/problem/233/A)
@@ -144,7 +159,7 @@
 
 ### Level 2: Conditions & Logic
 
-- [ ] [CF266-D2-A](https://codeforces.com/problemset/problem/266/A)
+- [x] [CF266-D2-A](https://codeforces.com/problemset/problem/266/A)
 - [ ] [CF236-D2-A](https://codeforces.com/problemset/problem/236/A)
 - [x] [CF281-D2-A](https://codeforces.com/problemset/problem/281/A)
 - [ ] [CF977-D3-A](https://codeforces.com/problemset/problem/977/A)
@@ -185,7 +200,7 @@
 
 - [ ] [CF996-D2-A](https://codeforces.com/problemset/problem/996/A)
 - [ ] [CF1335-D3-A](https://codeforces.com/problemset/problem/1335/A)
-- [ ] [CF427-D2-A](https://codeforces.com/problemset/problem/427/A)
+- [X] [CF427-D2-A](https://codeforces.com/problemset/problem/427/A)
 - [ ] [CF510-D2-A](https://codeforces.com/problemset/problem/510/A)
 - [ ] [CF581-D2-A](https://codeforces.com/problemset/problem/581/A)
 - [ ] [CF1352-D4-A](https://codeforces.com/problemset/problem/1352/A)
