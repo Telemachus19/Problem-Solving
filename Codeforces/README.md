@@ -22,7 +22,7 @@
 - [x] [CF427-D2-A](http://codeforces.com/contest/427/problem/A)
 - [x] [CF431-D2-A](http://codeforces.com/contest/431/problem/A)
 - [x] [CF731-D2-A](http://codeforces.com/contest/731/problem/A)
-- [ ] [CF268-D2-A](http://codeforces.com/contest/268/problem/A)
+- [x] [CF268-D2-A](http://codeforces.com/contest/268/problem/A)
 
 ---
 
