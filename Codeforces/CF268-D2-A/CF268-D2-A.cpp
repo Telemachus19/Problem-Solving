@@ -1,5 +1,23 @@
 #include <iostream>
 #include <vector>
+#include <stdlib.h>
+#include <functional>
+#include <utility>
+#include <numeric>
+#include <set>
+#include <map>
+#include <list>
+#include <iomanip>
+#include <cmath>
+#include <string>
+#include <vector>
+#include <queue>
+#include <stack>
+#include <complex>
+#include <sstream>
+#include <iostream>
+#include <algorithm>
+#include <valarray>
 
 using namespace std;
 
