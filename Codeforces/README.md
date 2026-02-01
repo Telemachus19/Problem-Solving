@@ -161,6 +161,7 @@ With more focus on data structures and combinatorics
 - [x] [CF405-D2-A](http://codeforces.com/problemset/problem/405/A)
 - [x] [CF734-D2-A](https://codeforces.com/problemset/problem/734/A)
 - [x] [CF791-D2-A](https://codeforces.com/problemset/problem/791/A)
+- [x] [CF344-D2-A](https://codeforces.com/problemset/problem/344/A)
 
 ### D-01
 
@@ -168,8 +169,8 @@ With more focus on data structures and combinatorics
 - [ ] [CF236-D2-A](https://codeforces.com/problemset/problem/236/A)
 - [ ] [CF677-D2-A](https://codeforces.com/problemset/problem/677/A)
 - [ ] [CF1030-D2-A](https://codeforces.com/problemset/problem/1030/A)
-- [ ] [CF344-D2-A](https://codeforces.com/problemset/problem/344/A)
 - [ ] [CF318-D2-A](https://codeforces.com/problemset/problem/318/A)
+- [ ] [CF61-D2-A](https://codeforces.com/problemset/problem/61/A)
 - [ ] [CF160-D2-A](http://codeforces.com/contest/160/problem/A)
 
 ### D-02
@@ -228,7 +229,6 @@ With more focus on data structures and combinatorics
 ### Level 3: String Manipulation
 
 - [ ] [CF141-D2-A](https://codeforces.com/problemset/problem/141/A)
-- [ ] [CF61-D2-A](https://codeforces.com/problemset/problem/61/A)
 
 
 ### Level 4: Arrays & Algorithms
