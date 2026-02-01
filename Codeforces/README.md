@@ -187,8 +187,8 @@ With more focus on data structures and combinatorics
 ### D-01
 
 - [x] [CF41A-D2](https://codeforces.com/problemset/problem/41/A)
-- [ ] [CF546A-D2](https://codeforces.com/problemset/problem/546/A)
-- [ ] [CF110A-D2](https://codeforces.com/problemset/problem/110/A)
+- [x] [CF546A-D2](https://codeforces.com/problemset/problem/546/A)
+- [x] [CF110A-D2](https://codeforces.com/problemset/problem/110/A)
 - [ ] [CF271A-D2](https://codeforces.com/problemset/problem/271/A)
 - [ ] [CF467A-D2](https://codeforces.com/problemset/problem/467/A)
 
