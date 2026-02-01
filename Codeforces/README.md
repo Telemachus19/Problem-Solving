@@ -4,41 +4,40 @@
 
 ### A
 
-- [x] [CF677-D2-A](http://codeforces.com/contest/677/problem/A)
-- [x] [CF734-D2-A](http://codeforces.com/contest/677/problem/A)
+- [x] [CF677A-D2](http://codeforces.com/problemset/problem/677/A)
+- [x] [CF734A-D2](http://codeforces.com/problemset/problem/734/A)
 
 --- 
 
-- [x] [CF791-D2-A](http://codeforces.com/contest/791/problem/A)
-- [x] [CF231-D2-A](http://codeforces.com/contest/231/problem/A)
-- [x] [CF263-D2-A](http://codeforces.com/contest/263/problem/A)
-- [x] [CF405-D2-A](http://codeforces.com/contest/405/problem/A)
-- [x] [CF112-D2-A](http://codeforces.com/contest/112/problem/A)
-- [x] [CF236-D2-A](http://codeforces.com/contest/236/problem/A)
-- [x] [CF59-D2-A](http://codeforces.com/contest/59/problem/A)
-- [x] [CF344-D2-A](http://codeforces.com/contest/344/problem/A)
-- [x] [CF381-D2-A](http://codeforces.com/contest/381/problem/A)
-- [x] [CF266-D2-A](http://codeforces.com/contest/266/problem/A)
-- [x] [CF427-D2-A](http://codeforces.com/contest/427/problem/A)
-- [x] [CF431-D2-A](http://codeforces.com/contest/431/problem/A)
-- [x] [CF731-D2-A](http://codeforces.com/contest/731/problem/A)
-- [x] [CF268-D2-A](http://codeforces.com/contest/268/problem/A)
+- [x] [CF791A-D2](http://codeforces.com/problemset/problem/791/A)
+- [x] [CF231A-D2](http://codeforces.com/problemset/problem/231/A)
+- [x] [CF263A-D2](http://codeforces.com/problemset/problem/263/A)
+- [x] [CF405A-D2](http://codeforces.com/problemset/problem/405/A)
+- [x] [CF112A-D2](http://codeforces.com/problemset/problem/112/A)
+- [x] [CF236A-D2](http://codeforces.com/problemset/problem/236/A)
+- [x] [CF59A-D2](http://codeforces.com/problemset/problem/59/A)
+- [x] [CF344A-D2](http://codeforces.com/problemset/problem/344/A)
+- [x] [CF381A-D2](http://codeforces.com/problemset/problem/381/A)
+- [x] [CF266A-D2](http://codeforces.com/problemset/problem/266/A)
+- [x] [CF427A-D2](http://codeforces.com/problemset/problem/427/A)
+- [x] [CF431A-D2](http://codeforces.com/problemset/problem/431/A)
+- [x] [CF731A-D2](http://codeforces.com/problemset/problem/731/A)
 
 ---
 
-- [ ] [CF732-D2-A](http://codeforces.com/contest/732/problem/A)
-- [ ] [CF228-D2-A](http://codeforces.com/contest/228/problem/A)
-- [ ] [CF265-D2-A](http://codeforces.com/contest/265/problem/A)
-- [ ] [CF9-D2-A](http://codeforces.com/contest/9/problem/A)
-- [ ] [CF294-D2-A](http://codeforces.com/contest/294/problem/A)
-- [ ] [CF709-D2-A](http://codeforces.com/contest/709/problem/A)
-- [ ] [CF799-D2-A](http://codeforces.com/contest/799/problem/A)
-- [ ] [CF443-D2-A](http://codeforces.com/contest/443/problem/A)
-- [ ] [CF71-D2-A](http://codeforces.com/contest/71/problem/A)
-- [ ] [CF686-D2-A](http://codeforces.com/contest/686/problem/A)
-- [ ] [CF339-D2-A](http://codeforces.com/contest/339/problem/A)
-- [ ] [CF490-D2-A](http://codeforces.com/contest/490/problem/A)
-- [ ] [CF770-D2-A](http://codeforces.com/contest/770/problem/A)
+- [ ] [CF732A-D2](http://codeforces.com/problemset/problem/732/A)
+- [ ] [CF228A-D2](http://codeforces.com/problemset/problem/228/A)
+- [ ] [CF265A-D2](http://codeforces.com/problemset/problem/265/A)
+- [ ] [CF9A-D2](http://codeforces.com/problemset/problem/9/A)
+- [ ] [CF294A-D2](http://codeforces.com/problemset/problem/294/A)
+- [ ] [CF709A-D2](http://codeforces.com/problemset/problem/709/A)
+- [ ] [CF799A-D2](http://codeforces.com/problemset/problem/799/A)
+- [ ] [CF443A-D2](http://codeforces.com/problemset/problem/443/A)
+- [ ] [CF71A-D2](http://codeforces.com/problemset/problem/71/A)
+- [ ] [CF686A-D2](http://codeforces.com/problemset/problem/686/A)
+- [ ] [CF339A-D2](http://codeforces.com/problemset/problem/339/A)
+- [ ] [CF490A-D2](http://codeforces.com/problemset/problem/490/A)
+- [ ] [CF770A-D2](http://codeforces.com/problemset/problem/770/A)
 
 ---
 
@@ -49,14 +48,14 @@
 - [ ] [UVA-12148](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3300)
 
 --- 
-- [ ] [CF136-D2-A](http://codeforces.com/contest/136/problem/A)
-- [ ] [CF567-D2-A](http://codeforces.com/contest/567/problem/A)
-- [ ] [CF766-D2-A](http://codeforces.com/contest/766/problem/A)
-- [ ] [CF767-D2-A](http://codeforces.com/problemset/problem/767/A)
-- [ ] [CF768-D2-A](http://codeforces.com/contest/768/problem/A)
-- [ ] [CF520-D2-A](http://codeforces.com/contest/520/problem/A)
-- [ ] [CF160-D2-A](http://codeforces.com/contest/160/problem/A)
-- [ ] [CF474-D2-A](http://codeforces.com/contest/474/problem/A)
+- [ ] [CF136A-D2](http://codeforces.com/problemset/problem/136/A)
+- [ ] [CF567A-D2](http://codeforces.com/problemset/problem/567/A)
+- [ ] [CF766A-D2](http://codeforces.com/problemset/problem/766/A)
+- [ ] [CF767A-D2](http://codeforces.com/problemset/problem/767/A)
+- [ ] [CF768A-D2](http://codeforces.com/problemset/problem/768/A)
+- [ ] [CF520A-D2](http://codeforces.com/problemset/problem/520/A)
+- [ ] [CF160A-D2](http://codeforces.com/problemset/problem/160/A)
+- [ ] [CF474A-D2](http://codeforces.com/problemset/problem/474/A)
 
 ---
 
@@ -66,40 +65,39 @@
 
 --- 
 
-- [ ] [CF216-D2-B](http://codeforces.com/contest/216/problem/B)
+- [ ] [CF216-D2-B](http://codeforces.com/problemset/problem/216/B)
 - [ ] [SPOJ MAKETREE](http://www.spoj.com/problems/MAKETREE/)
 - [ ] [UVA 10305](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1246)
 
 --- 
 
-- [ ] [CF318-D2-A](http://codeforces.com/contest/318/problem/A)
-- [ ] [CF469-D2-A](http://codeforces.com/contest/469/problem/A)
-- [ ] [CF807-D2-A](http://codeforces.com/contest/807/problem/A)
-- [ ] [CF584-D2-A](http://codeforces.com/contest/584/problem/A)
-- [ ] [CF43-D2-A](http://codeforces.com/contest/43/problem/A)
-- [ ] [CF707-D2-A](http://codeforces.com/contest/707/problem/A)
-- [ ] [CF208-D2-A](http://codeforces.com/contest/208/problem/A)
-- [ ] [CF404-D2-A](http://codeforces.com/contest/404/problem/A)
-- [ ] [CF742-D2-A](http://codeforces.com/contest/742/problem/A)
-- [ ] [CF486-D2-A](http://codeforces.com/contest/486/problem/A)
-- [ ] [CF1-D12-A](http://codeforces.com/contest/1/problem/A)
-- [ ] [CF785-D2-A](http://codeforces.com/contest/785/problem/A)
-- [ ] [CF80-D2-A](http://codeforces.com/contest/80/problem/A)
-- [ ] [CF483-D2-A](http://codeforces.com/contest/483/problem/A)
+- [ ] [CF318A-D2](http://codeforces.com/problemset/problem/318/A)
+- [ ] [CF469A-D2](http://codeforces.com/problemset/problem/469/A)
+- [ ] [CF807A-D2](http://codeforces.com/problemset/problem/807/A)
+- [ ] [CF584A-D2](http://codeforces.com/problemset/problem/584/A)
+- [ ] [CF43A-D2](http://codeforces.com/problemset/problem/43/A)
+- [ ] [CF707A-D2](http://codeforces.com/problemset/problem/707/A)
+- [ ] [CF208A-D2](http://codeforces.com/problemset/problem/208/A)
+- [ ] [CF404A-D2](http://codeforces.com/problemset/problem/404/A)
+- [ ] [CF742A-D2](http://codeforces.com/problemset/problem/742/A)
+- [ ] [CF486A-D2](http://codeforces.com/problemset/problem/486/A)
+- [x] [CF1A](http://codeforces.com/problemset/problem/1/A)
+- [ ] [CF80A-D2](http://codeforces.com/problemset/problem/80/A)
+- [ ] [CF483A-D2](http://codeforces.com/problemset/problem/483/A)
 
 ### B 
 
 With more focus on data structures and combinatorics
 
-- [ ] [CF66-D2-B](http://codeforces.com/contest/66/problem/B)
-- [ ] [CF680-D2-B](http://codeforces.com/contest/680/problem/B)
-- [ ] [CF16-D2-B](http://codeforces.com/contest/16/problem/B)
-- [ ] [CF463-D2-B](http://codeforces.com/contest/463/problem/B)
-- [ ] [CF102-D2-B](http://codeforces.com/contest/102/problem/B)
-- [ ] [CF47-D2-B](http://codeforces.com/contest/47/problem/B)
-- [ ] [CF227-D2-B](http://codeforces.com/contest/227/problem/B)
-- [ ] [CF78-D2-B](http://codeforces.com/contest/78/problem/B)
-- [ ] [CF746-D2-B](http://codeforces.com/contest/746/problem/B)
+- [ ] [CF66B-D2](http://codeforces.com/contest/66/problem/B)
+- [ ] [CF680B-D2](http://codeforces.com/contest/680/problem/B)
+- [ ] [CF16B-D2](http://codeforces.com/contest/16/problem/B)
+- [ ] [CF463B-D2](http://codeforces.com/contest/463/problem/B)
+- [ ] [CF102B-D2](http://codeforces.com/contest/102/problem/B)
+- [ ] [CF47B-D2](http://codeforces.com/contest/47/problem/B)
+- [ ] [CF227B-D2](http://codeforces.com/contest/227/problem/B)
+- [ ] [CF78B-D2](http://codeforces.com/contest/78/problem/B)
+- [ ] [CF746B-D2](http://codeforces.com/contest/746/problem/B)
 
 --- 
 
@@ -109,144 +107,158 @@ With more focus on data structures and combinatorics
 
 ![Progress](https://progress-bar.xyz/8/?style=minimal-matte)
 
-- [x] [CF69-D2-A](https://codeforces.com/problemset/problem/69/A)
-- [x] [CF263-D2-A ](https://codeforces.com/problemset/problem/263/A)
-- [x] [CF266-D2-B](https://codeforces.com/problemset/problem/266/B)
-- [ ] [CF32-D2-B](https://codeforces.com/problemset/problem/32/B)
-- [ ] [CF271-D2-A](https://codeforces.com/problemset/problem/271/A)
-- [ ] [CF275-D2-A](https://codeforces.com/problemset/problem/275/A)
-- [ ] [CF59-D2-A](https://codeforces.com/problemset/problem/59/A)
-- [x] [CF281-D2-A](https://codeforces.com/problemset/problem/281/A)
-- [ ] [CF110-D2-A](http://codeforces.com/problemset/problem/110/A)
-- [X] [CF266-D2-A](http://codeforces.com/problemset/problem/266/A)
-- [ ] [CF80-D2-A](http://codeforces.com/problemset/problem/80/A)
-- [ ] [CF61-D2-A](http://codeforces.com/problemset/problem/61/A)
-- [ ] [CF233-D2-A](http://codeforces.com/problemset/problem/233/A)
-- [ ] [CF144-D2-A](http://codeforces.com/problemset/problem/144/A)
-- [ ] [CF200-D2-B](http://codeforces.com/problemset/problem/200/B)
-- [ ] [CF148-D2-A](http://codeforces.com/problemset/problem/148/A)
-- [ ] [CF248-D2-A](http://codeforces.com/problemset/problem/248/A)
-- [ ] [CF155-D2-A](http://codeforces.com/problemset/problem/155/A)
-- [ ] [CF116-D2-A](http://codeforces.com/problemset/problem/116/A)
-- [ ] [CF339-D2-A](http://codeforces.com/problemset/problem/339/A)
-- [ ] [CF228-D2-A](http://codeforces.com/problemset/problem/228/A)
-- [x] [CF71-D2-A](https://codeforces.com/problemset/problem/71/A)
-- [ ] [CF236-D2-A](http://codeforces.com/problemset/problem/236/A)
-- [ ] [CF141-D2-A](http://codeforces.com/problemset/problem/141/A)
-- [ ] [CF151-D2-A](http://codeforces.com/problemset/problem/151/A)
-- [ ] [CF133-D2-A](http://codeforces.com/problemset/problem/133/A)
-- [x] [CF112-D2-A](https://codeforces.com/problemset/problem/112/A)
-- [x] [CF231-D2-A](https://codeforces.com/problemset/problem/231/A)
-- [x] [CF282-D2-A](https://codeforces.com/problemset/problem/282/A)
-- [ ] [CF227-D2-B](http://codeforces.com/problemset/problem/227/B)
+- [x] [CF69A-D2](https://codeforces.com/problemset/problem/69/A)
+- [x] [CF263A-D2 ](https://codeforces.com/problemset/problem/263/A)
+- [x] [CF266B-D2-B](https://codeforces.com/problemset/problem/266/B)
+- [ ] [CF271A-D2](https://codeforces.com/problemset/problem/271/A)
+- [ ] [CF275A-D2](https://codeforces.com/problemset/problem/275/A)
+- [ ] [CF59A-D2](https://codeforces.com/problemset/problem/59/A)
+- [x] [CF281A-D2](https://codeforces.com/problemset/problem/281/A)
+- [ ] [CF110A-D2](http://codeforces.com/problemset/problem/110/A)
+- [X] [CF266A-D2](http://codeforces.com/problemset/problem/266/A)
+- [ ] [CF80A-D2](http://codeforces.com/problemset/problem/80/A)
+- [ ] [CF61A-D2](http://codeforces.com/problemset/problem/61/A)
+- [ ] [CF233A-D2](http://codeforces.com/problemset/problem/233/A)
+- [ ] [CF144A-D2](http://codeforces.com/problemset/problem/144/A)
+- [ ] [CF200B-D2](http://codeforces.com/problemset/problem/200/B)
+- [ ] [CF148A-D2](http://codeforces.com/problemset/problem/148/A)
+- [ ] [CF248A-D2](http://codeforces.com/problemset/problem/248/A)
+- [ ] [CF155A-D2](http://codeforces.com/problemset/problem/155/A)
+- [ ] [CF116A-D2](http://codeforces.com/problemset/problem/116/A)
+- [ ] [CF339A-D2](http://codeforces.com/problemset/problem/339/A)
+- [ ] [CF228A-D2](http://codeforces.com/problemset/problem/228/A)
+- [x] [CF71A-D2](https://codeforces.com/problemset/problem/71/A)
+- [x] [CF236A-D2](http://codeforces.com/problemset/problem/236/A)
+- [ ] [CF141A-D2](http://codeforces.com/problemset/problem/141/A)
+- [ ] [CF151A-D2](http://codeforces.com/problemset/problem/151/A)
+- [ ] [CF133A-D2](http://codeforces.com/problemset/problem/133/A)
+- [x] [CF112A-D2](https://codeforces.com/problemset/problem/112/A)
+- [x] [CF231A-D2](https://codeforces.com/problemset/problem/231/A)
+- [x] [CF282A-D2](https://codeforces.com/problemset/problem/282/A)
+- [ ] [CF227B-D2](http://codeforces.com/problemset/problem/227/B)
 
 ## Week 01 (31-01-2026 -> 06-02-2026)
 
-![Progress](https://progress-bar.xyz/42/?style=minimal-matte)
+![Progress](https://progress-bar.xyz/0/?style=minimal-matte)
 
-- [x] [CF1-A](https://codeforces.com/problemset/problem/1/A)
-- [x] [CF4-D2-A](https://codeforces.com/problemset/problem/4/A)
-- [x] [CF50-D2-A](https://codeforces.com/problemset/problem/50/A)
-- [x] [CF59-D2-A](https://codeforces.com/problemset/problem/59/A)
-- [x] [CF69-D2-A](https://codeforces.com/problemset/problem/69/A)
-- [x] [CF71-D2-A](https://codeforces.com/problemset/problem/71/A)
-- [x] [CF112-D2-A](https://codeforces.com/problemset/problem/112/A)
-- [x] [CF158-D2-A](https://codeforces.com/problemset/problem/158/A)
-- [x] [CF231-D2-A](https://codeforces.com/problemset/problem/231/A)
-- [x] [CF263-D2-A](https://codeforces.com/problemset/problem/263/A)
-- [x] [CF266-D2-A](https://codeforces.com/problemset/problem/266/A)
-- [x] [CF266-D2-B](https://codeforces.com/problemset/problem/266/B)
-- [x] [CF281-D2-A](https://codeforces.com/problemset/problem/281/A)
-- [x] [CF282-D2-A](https://codeforces.com/problemset/problem/282/A)
-- [x] [CF405-D2-A](http://codeforces.com/problemset/problem/405/A)
-- [x] [CF734-D2-A](https://codeforces.com/problemset/problem/734/A)
-- [x] [CF791-D2-A](https://codeforces.com/problemset/problem/791/A)
-- [x] [CF344-D2-A](https://codeforces.com/problemset/problem/344/A)
+- [x] [CF1A](https://codeforces.com/problemset/problem/1/A)
+- [x] [CF4A-D2](https://codeforces.com/problemset/problem/4/A)
+- [x] [CF50A-D2](https://codeforces.com/problemset/problem/50/A)
+- [x] [CF59A-D2](https://codeforces.com/problemset/problem/59/A)
+- [x] [CF69A-D2](https://codeforces.com/problemset/problem/69/A)
+- [x] [CF71A-D2](https://codeforces.com/problemset/problem/71/A)
+- [x] [CF112A-D2](https://codeforces.com/problemset/problem/112/A)
+- [x] [CF158A-D2](https://codeforces.com/problemset/problem/158/A)
+- [x] [CF231A-D2](https://codeforces.com/problemset/problem/231/A)
+- [x] [CF263A-D2](https://codeforces.com/problemset/problem/263/A)
+- [x] [CF266A-D2](https://codeforces.com/problemset/problem/266/A)
+- [x] [CF266B-D2](https://codeforces.com/problemset/problem/266/B)
+- [x] [CF281A-D2](https://codeforces.com/problemset/problem/281/A)
+- [x] [CF282A-D2](https://codeforces.com/problemset/problem/282/A)
+- [x] [CF405A-D2](http://codeforces.com/problemset/problem/405/A)
+- [x] [CF734A-D2](https://codeforces.com/problemset/problem/734/A)
+- [x] [CF791A-D2](https://codeforces.com/problemset/problem/791/A)
+- [x] [CF344A-D2](https://codeforces.com/problemset/problem/344/A)
+- [ ] [CF339A-D2](http://codeforces.com/problemset/problem/339/A)
+- [ ] [CF520A-D2](https://codeforces.com/problemset/problem/520/A)
 
 ### D-01
 
-- [ ] [CF136-D2-A](https://codeforces.com/problemset/problem/136/A)
-- [ ] [CF236-D2-A](https://codeforces.com/problemset/problem/236/A)
-- [ ] [CF677-D2-A](https://codeforces.com/problemset/problem/677/A)
-- [ ] [CF1030-D2-A](https://codeforces.com/problemset/problem/1030/A)
-- [ ] [CF318-D2-A](https://codeforces.com/problemset/problem/318/A)
-- [ ] [CF61-D2-A](https://codeforces.com/problemset/problem/61/A)
-- [ ] [CF160-D2-A](http://codeforces.com/contest/160/problem/A)
+- [ ] [CF41A-D2](https://codeforces.com/problemset/problem/41/A)
+- [ ] [CF546A-D2](https://codeforces.com/problemset/problem/546/A)
+- [ ] [CF110A-D2](https://codeforces.com/problemset/problem/110/A)
+- [ ] [CF271A-D2](https://codeforces.com/problemset/problem/271/A)
+- [ ] [CF467A-D2](https://codeforces.com/problemset/problem/467/A)
 
 ### D-02
 
-- [ ] [CF705-D2-A](https://codeforces.com/problemset/problem/705/A)
-- [ ] [CF467-D2-A](https://codeforces.com/problemset/problem/467/A)
-- [ ] [CF339-D2-A](http://codeforces.com/problemset/problem/339/A)
-- [ ] [CF116-D2-A](https://codeforces.com/problemset/problem/116/A)
-- [ ] [CF520-D2-A](https://codeforces.com/problemset/problem/520/A)
+- [ ] [CF977A-D3](https://codeforces.com/problemset/problem/977/A)
+- [ ] [CF116A-D2](https://codeforces.com/problemset/problem/116/A)
+- [ ] [CF1030A-D2](https://codeforces.com/problemset/problem/1030/A)
+- [ ] [CF61A-D2](https://codeforces.com/problemset/problem/61/A)
+- [ ] [CF136A-D2](https://codeforces.com/problemset/problem/136/A)
 
 ### D-03
 
-- [ ] [CF546-D2-A](https://codeforces.com/problemset/problem/546/A)
-- [ ] [CF271-D2-A](https://codeforces.com/problemset/problem/271/A)
-- [ ] [CF617-D2-A](https://codeforces.com/problemset/problem/617/A)
-- [ ] [CF977-D3-A](https://codeforces.com/problemset/problem/977/A)
-- [ ] [CF318-D2-A](https://codeforces.com/problemset/problem/318/A)
+- [ ] [CF96A-D2](https://codeforces.com/problemset/problem/96/A)
+- [ ] [CF160A-D2](https://codeforces.com/problemset/problem/160/A)
+- [ ] [CF133A-D2](http://codeforces.com/problemset/problem/133/A)
+- [ ] [CF318A-D2](https://codeforces.com/problemset/problem/318/A)
+- [ ] [CF149A-D2](https://codeforces.com/problemset/problem/149/A)
 
 ### D-04
 
-- [ ] [CF486-D2-A](https://codeforces.com/problemset/problem/486/A)
-- [ ] [CF339-D2-B](https://codeforces.com/problemset/problem/339/B)
-- [ ] [CF476-D2-A](https://codeforces.com/problemset/problem/476/A)
-- [ ] [CF580-D2-A](https://codeforces.com/problemset/problem/580/A)
-- [ ] [CF118-D2-A](https://codeforces.com/problemset/problem/118/A)
+- [ ] [CF580A-D2](https://codeforces.com/problemset/problem/580/A)
+- [ ] [CF208A-D2](https://codeforces.com/problemset/problem/208/A)
+- [ ] [CF337A-D2](https://codeforces.com/problemset/problem/337/A)
+- [ ] [CF34B-D2](https://codeforces.com/problemset/problem/34/B)
+- [ ] [CF313A-D2](https://codeforces.com/problemset/problem/313/A)
 
 ### D-05
 
-- [ ] [CF160-D2-A](https://codeforces.com/problemset/problem/160/A)
-- [ ] [CF208-D2-A](https://codeforces.com/problemset/problem/208/A)
-- [ ] [CF133-D2-A](http://codeforces.com/problemset/problem/133/A)
-- [ ] [CF313-D2-A](https://codeforces.com/problemset/problem/313/A)
-- [ ] [CF337-D2-A](https://codeforces.com/problemset/problem/337/A)
+- [ ] [CF476A-D2](https://codeforces.com/problemset/problem/476/A)
+- [ ] [CF118B-D2](https://codeforces.com/problemset/problem/118/B)
+- [ ] [CF58A-D2](https://codeforces.com/problemset/problem/58/A)
+- [ ] [CF118A-D2](https://codeforces.com/problemset/problem/118/A)
+- [ ] [CF479A-D2](https://codeforces.com/problemset/problem/479/A)
 
 ### D-06
 
-- [ ] [CF96-D2-A](https://codeforces.com/problemset/problem/96/A)
-- [ ] [CF479-D2-A](https://codeforces.com/problemset/problem/479/A)
-- [ ] [CF131-D2-A](https://codeforces.com/problemset/problem/131/A)
-- [ ] [CF58-D2-A](https://codeforces.com/problemset/problem/58/A)
-- [ ] [CF122-D2-A](https://codeforces.com/problemset/problem/122/A)
+- [ ] [CF122A-D2](https://codeforces.com/problemset/problem/122/A)
+- [ ] [CF131A-D2](https://codeforces.com/problemset/problem/131/A)
+- [ ] [CF339B-D2](https://codeforces.com/problemset/problem/339/B)
+- [ ] [CF230A-D2](https://codeforces.com/problemset/problem/230/A)
+- [ ] [CF579A-D2](https://codeforces.com/problemset/problem/579/A)
+
 
 ### D-07
 
-- [ ] [CF230-D2-A](https://codeforces.com/problemset/problem/230/A)
-- [ ] [CF1328-D3-A](https://codeforces.com/problemset/problem/1328/A)
-- [ ] [CF110-D2-A](https://codeforces.com/problemset/problem/110/A)
-- [ ] [CF41-D2-A](https://codeforces.com/problemset/problem/41/A)
-- [ ] [CF443-D2-A](https://codeforces.com/problemset/problem/443/A)
+- [ ] [CF158B-VK2012](https://codeforces.com/problemset/problem/158/B)
+- [ ] [CF617A-D2](https://codeforces.com/problemset/problem/617/A)
+- [ ] [CF500A-D2](https://codeforces.com/problemset/problem/500/A)
+- [ ] [CF43A-D2](http://codeforces.com/problemset/problem/43/A)
+- [ ] [CF1374C-D3](https://codeforces.com/problemset/problem/1374/C)
 
+## Week 02 (07-02-2026 -> 13-02-2026)
+
+- [x] [CF268A-D2](http://codeforces.com/contest/268/problem/A)
+
+
+### D-08
+
+- [ ] [CF379A](https://codeforces.com/problemset/problem/379/A)
+- [ ] [CF577A-D2](https://codeforces.com/problemset/problem/577/A)
+- [ ] [CF705A-D2](https://codeforces.com/problemset/problem/705/A)
+- [ ] [CF1353B-D3](https://codeforces.com/problemset/problem/1353/B)
+- [ ] [CF205A-D2](https://codeforces.com/problemset/problem/205/A)
+
+### D-09
+
+- [ ] [CF1343B](https://codeforces.com/problemset/problem/1343/B)
+- [ ] [CF1328A](https://codeforces.com/problemset/problem/1328/A)
+- [ ] [CF1335C](https://codeforces.com/problemset/problem/1335/C)
+- [ ] [CF1352C](https://codeforces.com/problemset/problem/1352/C)
+- [ ] [CF706B](https://codeforces.com/problemset/problem/706/B)
 
 ### Level 2: Conditions & Logic
 
-- [ ] [CF200-D2-B](https://codeforces.com/problemset/problem/200/B)
 
 ### Level 3: String Manipulation
 
-- [ ] [CF141-D2-A](https://codeforces.com/problemset/problem/141/A)
+- [ ] [CF141A-D2](https://codeforces.com/problemset/problem/141/A)
 
 
 ### Level 4: Arrays & Algorithms
 
-- [ ] [CF228-D2-A](https://codeforces.com/problemset/problem/228/A)
-- [ ] [CF144-D2-A](https://codeforces.com/problemset/problem/144/A)
-- [ ] [CF148-D2-A](https://codeforces.com/problemset/problem/148/A)
-- [ ] [CF155-D2-A](https://codeforces.com/problemset/problem/155/A)
+- [ ] [CF228A-D2](https://codeforces.com/problemset/problem/228/A)
+- [ ] [CF155A-D2](https://codeforces.com/problemset/problem/155/A)
 
 ### Level 5: Simulations & Greedy
 
-- [ ] [CF996-D2-A](https://codeforces.com/problemset/problem/996/A)
-- [ ] [CF1335-D3-A](https://codeforces.com/problemset/problem/1335/A)
-- [X] [CF427-D2-A](https://codeforces.com/problemset/problem/427/A)
-- [ ] [CF510-D2-A](https://codeforces.com/problemset/problem/510/A)
-- [ ] [CF581-D2-A](https://codeforces.com/problemset/problem/581/A)
-- [ ] [CF1352-D4-A](https://codeforces.com/problemset/problem/1352/A)
-- [ ] [CF1154-D3-A](https://codeforces.com/problemset/problem/1154/A)
-- [ ] [CF723-D2-A](https://codeforces.com/problemset/problem/723/A)
-- [ ] [CF1512-D3-A](https://codeforces.com/problemset/problem/1512/A)
-- [ ] [CF472-D2-A](https://codeforces.com/problemset/problem/472/A)
+- [ ] [CF1335A-D3](https://codeforces.com/problemset/problem/1335/A)
+- [ ] [CF581A-D2](https://codeforces.com/problemset/problem/581/A)
+- [ ] [CF1352A-D4](https://codeforces.com/problemset/problem/1352/A)
+- [ ] [CF1154A-D3](https://codeforces.com/problemset/problem/1154/A)
+- [ ] [CF723A-D2](https://codeforces.com/problemset/problem/723/A)
+- [ ] [CF1512A-D3](https://codeforces.com/problemset/problem/1512/A)
+- [ ] [CF472A-D2](https://codeforces.com/problemset/problem/472/A)
