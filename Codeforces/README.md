@@ -1,5 +1,27 @@
 # CodeForces, UVA & SPOJ
 
+- [CodeForces, UVA \& SPOJ](#codeforces-uva--spoj)
+  - [Junior Training Sheet](#junior-training-sheet)
+    - [A](#a)
+    - [B](#b)
+  - [AOJ Ladders](#aoj-ladders)
+    - [Difficulty Level: 2](#difficulty-level-2)
+  - [Week 01 (31-01-2026 -\> 06-02-2026)](#week-01-31-01-2026---06-02-2026)
+    - [D-01](#d-01)
+    - [D-02](#d-02)
+    - [D-03](#d-03)
+    - [D-04](#d-04)
+    - [D-05](#d-05)
+    - [D-06](#d-06)
+    - [D-07](#d-07)
+  - [Week 02 (07-02-2026 -\> 13-02-2026)](#week-02-07-02-2026---13-02-2026)
+    - [D-08](#d-08)
+    - [D-09](#d-09)
+    - [D-10](#d-10)
+    - [D-11](#d-11)
+    - [D-12](#d-12)
+
+
 ## Junior Training Sheet
 
 ### A
@@ -164,7 +186,7 @@ With more focus on data structures and combinatorics
 
 ### D-01
 
-- [ ] [CF41A-D2](https://codeforces.com/problemset/problem/41/A)
+- [x] [CF41A-D2](https://codeforces.com/problemset/problem/41/A)
 - [ ] [CF546A-D2](https://codeforces.com/problemset/problem/546/A)
 - [ ] [CF110A-D2](https://codeforces.com/problemset/problem/110/A)
 - [ ] [CF271A-D2](https://codeforces.com/problemset/problem/271/A)
@@ -240,25 +262,28 @@ With more focus on data structures and combinatorics
 - [ ] [CF1352C](https://codeforces.com/problemset/problem/1352/C)
 - [ ] [CF706B](https://codeforces.com/problemset/problem/706/B)
 
-### Level 2: Conditions & Logic
+### D-10
+
+- [ ] [CF313B](https://codeforces.com/problemset/problem/313/B)
+- [ ] [CF363B](https://codeforces.com/problemset/problem/363/B)
+- [ ] [CF368B](https://codeforces.com/problemset/problem/368/B)
+- [ ] [CF519B](https://codeforces.com/problemset/problem/519/B)
+- [ ] [CF456A](https://codeforces.com/problemset/problem/456/A)
+
+### D-11
+
+- [ ] [CF82A](https://codeforces.com/problemset/problem/82/A)
+- [ ] [CF270A](https://codeforces.com/problemset/problem/270/A)
+- [ ] [CF492B](https://codeforces.com/problemset/problem/492/B)
+- [ ] [CF467B](https://codeforces.com/problemset/problem/467/B)
+- [ ] [CF25A](https://codeforces.com/problemset/problem/25/A)
+
+### D-12
+
+- [ ] [1490C]
+- [ ] [1360C]
+- [ ] [1409A]
+- [ ] [1472B]
+- [ ] [1327A]
 
 
-### Level 3: String Manipulation
-
-- [ ] [CF141A-D2](https://codeforces.com/problemset/problem/141/A)
-
-
-### Level 4: Arrays & Algorithms
-
-- [ ] [CF228A-D2](https://codeforces.com/problemset/problem/228/A)
-- [ ] [CF155A-D2](https://codeforces.com/problemset/problem/155/A)
-
-### Level 5: Simulations & Greedy
-
-- [ ] [CF1335A-D3](https://codeforces.com/problemset/problem/1335/A)
-- [ ] [CF581A-D2](https://codeforces.com/problemset/problem/581/A)
-- [ ] [CF1352A-D4](https://codeforces.com/problemset/problem/1352/A)
-- [ ] [CF1154A-D3](https://codeforces.com/problemset/problem/1154/A)
-- [ ] [CF723A-D2](https://codeforces.com/problemset/problem/723/A)
-- [ ] [CF1512A-D3](https://codeforces.com/problemset/problem/1512/A)
-- [ ] [CF472A-D2](https://codeforces.com/problemset/problem/472/A)
