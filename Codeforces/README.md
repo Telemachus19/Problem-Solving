@@ -1,6 +1,9 @@
 # CodeForces, UVA & SPOJ
 
+
+
 - [CodeForces, UVA \& SPOJ](#codeforces-uva--spoj)
+  - [Emoji Map](#emoji-map)
   - [Junior Training Sheet](#junior-training-sheet)
     - [A](#a)
     - [B](#b)
@@ -21,7 +24,11 @@
     - [D-11](#d-11)
     - [D-12](#d-12)
 
+## Emoji Map
 
+- 🟢 = Easy / Solved instantly
+- 🟡 = Struggled / Needed hints
+- 🔴 = Failed / Looked up solution (Needs Review)
 ## Junior Training Sheet
 
 ### A
@@ -93,7 +100,7 @@
 
 --- 
 
-- [ ] [CF318A-D2](http://codeforces.com/problemset/problem/318/A)
+- [ ] [CF318A-D2](http://codeforces.com/problemset/problem/318/A) 
 - [ ] [CF469A-D2](http://codeforces.com/problemset/problem/469/A)
 - [ ] [CF807A-D2](http://codeforces.com/problemset/problem/807/A)
 - [ ] [CF584A-D2](http://codeforces.com/problemset/problem/584/A)
@@ -186,15 +193,15 @@ With more focus on data structures and combinatorics
 
 ### D-01
 
-- [x] [CF41A-D2](https://codeforces.com/problemset/problem/41/A)
-- [x] [CF546A-D2](https://codeforces.com/problemset/problem/546/A)
-- [x] [CF110A-D2](https://codeforces.com/problemset/problem/110/A)
-- [x] [CF271A-D2](https://codeforces.com/problemset/problem/271/A)
-- [x] [CF467A-D2](https://codeforces.com/problemset/problem/467/A)
+- [x] 🟢 [CF41A-D2] (https://codeforces.com/problemset/problem/41/A)  *(implementation / strings / \*800)*
+- [x] 🟢 [CF546A-D2](https://codeforces.com/problemset/problem/546/A) *(brute force / implementation / math / \*800)*
+- [x] 🟢 [CF110A-D2](https://codeforces.com/problemset/problem/110/A) *(implementation / \*800)*
+- [x] 🟢 [CF271A-D2](https://codeforces.com/problemset/problem/271/A) *(brute force / \*800)*
+- [x] 🟢 [CF467A-D2](https://codeforces.com/problemset/problem/467/A) *(implementation / \*800)*
 
 ### D-02
 
-- [ ] [CF977A-D3](https://codeforces.com/problemset/problem/977/A)
+- [ ] [CF977A-D3](https://codeforces.com/problemset/problem/977/A) *(implementation / \*800)*
 - [ ] [CF116A-D2](https://codeforces.com/problemset/problem/116/A)
 - [ ] [CF1030A-D2](https://codeforces.com/problemset/problem/1030/A)
 - [ ] [CF61A-D2](https://codeforces.com/problemset/problem/61/A)
