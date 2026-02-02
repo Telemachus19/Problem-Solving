@@ -202,7 +202,7 @@ With more focus on data structures and combinatorics
 ### D-02
 
 - [x] 🟢 [CF977A-D3](https://codeforces.com/problemset/problem/977/A) *(implementation / \*800)*
-- [ ] [CF116A-D2](https://codeforces.com/problemset/problem/116/A)
+- [x] 🟢 [CF116A-D2](https://codeforces.com/problemset/problem/116/A)
 - [ ] [CF1030A-D2](https://codeforces.com/problemset/problem/1030/A)
 - [ ] [CF61A-D2](https://codeforces.com/problemset/problem/61/A)
 - [ ] [CF136A-D2](https://codeforces.com/problemset/problem/136/A)
