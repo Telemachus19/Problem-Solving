@@ -26,7 +26,7 @@
 
 ## Emoji Map
 
-- 🟢 = Easy / Solved instantly
+- 🟢 = Solved Without hints
 - 🟡 = Struggled / Needed hints
 - 🔴 = Failed / Looked up solution (Needs Review)
 ## Junior Training Sheet
@@ -205,7 +205,7 @@ With more focus on data structures and combinatorics
 - [x] 🟢 [CF116A-D2](https://codeforces.com/problemset/problem/116/A)
 - [x] 🟢 [CF1030A-D2](https://codeforces.com/problemset/problem/1030/A)
 - [x] 🟢 [CF61A-D2](https://codeforces.com/problemset/problem/61/A)
-- [ ] [CF136A-D2](https://codeforces.com/problemset/problem/136/A)
+- [x] 🟢 [CF136A-D2](https://codeforces.com/problemset/problem/136/A)
 
 ### D-03
 
