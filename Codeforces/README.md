@@ -1,7 +1,5 @@
 # CodeForces, UVA & SPOJ
 
-
-
 - [CodeForces, UVA \& SPOJ](#codeforces-uva--spoj)
   - [Emoji Map](#emoji-map)
   - [Junior Training Sheet](#junior-training-sheet)
