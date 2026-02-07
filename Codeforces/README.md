@@ -210,8 +210,8 @@ With more focus on data structures and combinatorics
 - [x] 🟡 [CF96A-D2](https://codeforces.com/problemset/problem/96/A)
 - [x] 🟢 [CF160A-D2](https://codeforces.com/problemset/problem/160/A)
 - [x] 🟢 [CF133A-D2](http://codeforces.com/problemset/problem/133/A)
-- [ ] [CF318A-D2](https://codeforces.com/problemset/problem/318/A)
-- [ ] [CF149A-D2](https://codeforces.com/problemset/problem/149/A)
+- [x] [CF318A-D2](https://codeforces.com/problemset/problem/318/A)
+- [x] [CF149A-D2](https://codeforces.com/problemset/problem/149/A)
 
 ### D-04
 
