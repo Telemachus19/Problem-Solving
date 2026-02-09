@@ -16,6 +16,7 @@
     - [D-06](#d-06)
     - [D-07](#d-07)
   - [Week 02 (07-02-2026 -\> 13-02-2026)](#week-02-07-02-2026---13-02-2026)
+    - [\[CONTEST\] Codeforces Round 1078 (Div. 2)](#contest-codeforces-round-1078-div-2)
     - [D-08](#d-08)
     - [D-09](#d-09)
     - [D-10](#d-10)
@@ -249,6 +250,19 @@ With more focus on data structures and combinatorics
 ## Week 02 (07-02-2026 -> 13-02-2026)
 
 - [x] [CF268A-D2](http://codeforces.com/contest/268/problem/A)
+
+### [CONTEST] Codeforces Round 1078 (Div. 2)
+
+- [x] [CF2194A](https://codeforces.com/contest/2194/problem/A)
+- [x] [CF2194B](https://codeforces.com/contest/2194/problem/B)
+- [ ] [CF2194C](https://codeforces.com/contest/2194/problem/C)
+- [ ] [CF2194D](https://codeforces.com/contest/2194/problem/D)
+- [ ] [CF2194E](https://codeforces.com/contest/2194/problem/E)
+- [ ] [CF2194F1](https://codeforces.com/contest/2194/problem/F1)
+- [ ] [CF2194F2](https://codeforces.com/contest/2194/problem/F2)
+
+
+
 
 
 ### D-08
