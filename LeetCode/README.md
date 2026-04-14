@@ -1,52 +1,71 @@
-
 # Week 1 (31-01-2026 -> 06-02-2026)
 
-- [x] [LC-1](https://leetcode.com/problems/two-sum)
-- [x] [LC-1929](https://leetcode.com/problems/concatenation-of-array) 
-- [x] [LC-283](https://leetcode.com/problems/move-zeroes)
-- [x] [LC-14](https://leetcode.com/problems/longest-common-prefix)
-- [x] [LC-20](https://leetcode.com/problems/valid-parentheses)
-- [x] [LC-9](https://leetcode.com/problems/palindrome-number)
+- [x] [LC-1-two-sum](https://leetcode.com/problems/two-sum)
+- [x] [LC-1929-concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)
+- [x] [LC-283-move-zeroes](https://leetcode.com/problems/move-zeroes)
+- [x] [LC-14-longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)
+- [x] [LC-20-valid-parentheses](https://leetcode.com/problems/valid-parentheses)
+- [x] [LC-9-palindrome-number](https://leetcode.com/problems/palindrome-number)
 
 ## Day 01
 
-- [ ] [LC-290 Word Pattern](https://leetcode.com/problems/word-pattern)
-- [ ] [LC-217 Contains Duplicate](https://leetcode.com/problems/Contains-Duplicate)
-- [ ] [LC-242 Valid Anagram](https://leetcode.com/problems/Valid-Anagram)
-- [ ] [Shuffle the Array](https://leetcode.com/problems/Shuffle-the-Array)
-- [ ] [Replace Elements](https://leetcode.com/problems/Replace-Elements)
+- [ ] [LC-290-word-pattern](https://leetcode.com/problems/word-pattern)
+- [x] [LC-217-contains-duplicate](https://leetcode.com/problems/contains-duplicate)
+- [x] [LC-242-valid-anagram](https://leetcode.com/problems/valid-anagram)
+- [x] [LC-1470-shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)
+- [ ] [LC-1299-replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)
 
 ## Day 02
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/Valid-Palindrome)
-- [ ] [Reverse Vowels of a String](https://leetcode.com/problems/Reverse-Vowels-of-a-String)
-- [ ] [Remove Element](https://leetcode.com/problems/Remove-Element)
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/Squares-of-a-Sorted-Array)
-- [ ] [Reverse String](https://leetcode.com/problems/Reverse-String)
+- [ ] [LC-125-valid-palindrome](https://leetcode.com/problems/valid-palindrome)
+- [ ] [LC-345-reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)
+- [ ] [LC-27-remove-element](https://leetcode.com/problems/remove-element)
+- [ ] [LC-977-squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array)
+- [ ] [LC-344-reverse-string](https://leetcode.com/problems/reverse-string)
 
 ## Day 03
 
-- [ ] [Make The String Great](https://leetcode.com/problems/Make-The-String-Great)
-- [ ] [Baseball Game](https://leetcode.com/problems/Baseball-Game)
-- [ ] [Min Stack](https://leetcode.com/problems/Min-Stack)
-- [ ] [Remove All Adjacent Duplicates](https://leetcode.com/Remove-All-Adjacent-Duplicates)
-- [ ] [Build Array from Permutation](https://leetcode.com/Build-Array-from-Permutation)
+- [ ] [LC-1544-make-the-string-great](https://leetcode.com/problems/make-the-string-great)
+- [ ] [LC-682-baseball-game](https://leetcode.com/problems/baseball-game)
+- [ ] [LC-155-min-stack](https://leetcode.com/problems/min-stack)
+- [ ] [LC-1047-remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)
+- [ ] [LC-1920-build-array-from-permutation](https://leetcode.com/problems/build-array-from-permutation)
 
-## Day 04 
+## Day 04
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock)
-- [ ] [Maximum Average Subarray I](https://leetcode.com/problems/Maximum-Average-Subarray-I)
-- [ ] [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II)
-- [ ] [Longest Substring Without Repeating](https://leetcode.com/problems/Longest-Substring-Without-Repeating)
-- [ ] [Majority Element](https://leetcode.com/problems/Majority-Element)
+- [x] [LC-121-best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [ ] [LC-643-maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i)
+- [ ] [LC-219-contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)
+- [ ] [LC-3-longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [ ] [LC-169-majority-element](https://leetcode.com/problems/majority-element)
 
 ## Day 05
 
-- [ ] [Binary Search](https://leetcode.com/problems/Binary-Search)
-- [ ] 
+- [ ] [LC-704-binary-search](https://leetcode.com/problems/binary-search)
 
 ## Day 06
 
 ## Day 07
 
+# Solved Problems In Folder
 
+- [x] [LC-1-two-sum](https://leetcode.com/problems/two-sum)
+- [x] [LC-9-palindrome-number](https://leetcode.com/problems/palindrome-number)
+- [x] [LC-12-integer-to-roman](https://leetcode.com/problems/integer-to-roman)
+- [x] [LC-13-roman-to-integer](https://leetcode.com/problems/roman-to-integer)
+- [x] [LC-14-longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)
+- [x] [LC-20-valid-parentheses](https://leetcode.com/problems/valid-parentheses)
+- [x] [LC-21-merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)
+- [x] [LC-121-best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [x] [LC-217-contains-duplicate](https://leetcode.com/problems/contains-duplicate)
+- [x] [LC-242-valid-anagram](https://leetcode.com/problems/valid-anagram)
+- [x] [LC-283-move-zeroes](https://leetcode.com/problems/move-zeroes)
+- [x] [LC-292-nim-game](https://leetcode.com/problems/nim-game)
+- [x] [LC-412-fizz-buzz](https://leetcode.com/problems/fizz-buzz)
+- [x] [LC-485-max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones)
+- [x] [LC-1015-smallest-integer-divisible-by-k](https://leetcode.com/problems/smallest-integer-divisible-by-k)
+- [x] [LC-1018-binary-prefix-divisible-by-5](https://leetcode.com/problems/binary-prefix-divisible-by-5)
+- [x] [LC-1262-greatest-sum-divisible-by-three](https://leetcode.com/problems/greatest-sum-divisible-by-three)
+- [x] [LC-1470-shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)
+- [x] [LC-1929-concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)
+- [x] [LC-3381-maximum-subarray-sum-with-length-divisible-by-k](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k)
