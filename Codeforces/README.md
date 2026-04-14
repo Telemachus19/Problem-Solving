@@ -15,19 +15,22 @@
     - [D-05](#d-05)
     - [D-06](#d-06)
     - [D-07](#d-07)
-  - [Week 02 (07-02-2026 -\> 13-02-2026)](#week-02-07-02-2026---13-02-2026)
+  - [Week 02 (13-04-2026 -\> 19-04-2026)](#week-02-13-04-2026---19-04-2026)
     - [\[CONTEST\] Codeforces Round 1078 (Div. 2)](#contest-codeforces-round-1078-div-2)
     - [D-08](#d-08)
     - [D-09](#d-09)
     - [D-10](#d-10)
     - [D-11](#d-11)
     - [D-12](#d-12)
+  - [Week 03 (20-04-2026 -\> 26-04-2026)](#week-03-20-04-2026---26-04-2026)
+  - [Week 04 (27-04-2026 -\> 03-05-2026)](#week-04-27-04-2026---03-05-2026)
 
 ## Emoji Map
 
 - 🟢 = Solved Without hints
 - 🟡 = Struggled / Needed hints
 - 🔴 = Failed / Looked up solution (Needs Review)
+
 ## Junior Training Sheet
 
 ### A
@@ -35,7 +38,7 @@
 - [x] [CF677A-D2](http://codeforces.com/problemset/problem/677/A)
 - [x] [CF734A-D2](http://codeforces.com/problemset/problem/734/A)
 
---- 
+---
 
 - [x] [CF791A-D2](http://codeforces.com/problemset/problem/791/A)
 - [x] [CF231A-D2](http://codeforces.com/problemset/problem/231/A)
@@ -75,7 +78,8 @@
 - [ ] [UVA-11231](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2172)
 - [ ] [UVA-12148](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3300)
 
---- 
+---
+
 - [ ] [CF136A-D2](http://codeforces.com/problemset/problem/136/A)
 - [ ] [CF567A-D2](http://codeforces.com/problemset/problem/567/A)
 - [ ] [CF766A-D2](http://codeforces.com/problemset/problem/766/A)
@@ -91,15 +95,15 @@
 - [ ] [UVA-10452](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1393)
 - [ ] [UVA-11953](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3104)
 
---- 
+---
 
 - [ ] [CF216-D2-B](http://codeforces.com/problemset/problem/216/B)
 - [ ] [SPOJ MAKETREE](http://www.spoj.com/problems/MAKETREE/)
 - [ ] [UVA 10305](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1246)
 
---- 
+---
 
-- [ ] [CF318A-D2](http://codeforces.com/problemset/problem/318/A) 
+- [ ] [CF318A-D2](http://codeforces.com/problemset/problem/318/A)
 - [ ] [CF469A-D2](http://codeforces.com/problemset/problem/469/A)
 - [ ] [CF807A-D2](http://codeforces.com/problemset/problem/807/A)
 - [ ] [CF584A-D2](http://codeforces.com/problemset/problem/584/A)
@@ -113,7 +117,7 @@
 - [ ] [CF80A-D2](http://codeforces.com/problemset/problem/80/A)
 - [ ] [CF483A-D2](http://codeforces.com/problemset/problem/483/A)
 
-### B 
+### B
 
 With more focus on data structures and combinatorics
 
@@ -127,7 +131,7 @@ With more focus on data structures and combinatorics
 - [ ] [CF78B-D2](http://codeforces.com/contest/78/problem/B)
 - [ ] [CF746B-D2](http://codeforces.com/contest/746/problem/B)
 
---- 
+---
 
 ## AOJ Ladders
 
@@ -143,7 +147,7 @@ With more focus on data structures and combinatorics
 - [ ] [CF59A-D2](https://codeforces.com/problemset/problem/59/A)
 - [x] [CF281A-D2](https://codeforces.com/problemset/problem/281/A)
 - [ ] [CF110A-D2](http://codeforces.com/problemset/problem/110/A)
-- [X] [CF266A-D2](http://codeforces.com/problemset/problem/266/A)
+- [x] [CF266A-D2](http://codeforces.com/problemset/problem/266/A)
 - [ ] [CF80A-D2](http://codeforces.com/problemset/problem/80/A)
 - [ ] [CF61A-D2](http://codeforces.com/problemset/problem/61/A)
 - [ ] [CF233A-D2](http://codeforces.com/problemset/problem/233/A)
@@ -167,7 +171,7 @@ With more focus on data structures and combinatorics
 
 ## Week 01 (31-01-2026 -> 06-02-2026)
 
-![Progress](https://progress-bar.xyz/0/?style=minimal-matte)
+![Progress](https://progress-bar.xyz/100/?style=minimal-matte)
 
 - [x] [CF1A](https://codeforces.com/problemset/problem/1/A)
 - [x] [CF4A-D2](https://codeforces.com/problemset/problem/4/A)
@@ -187,26 +191,24 @@ With more focus on data structures and combinatorics
 - [x] [CF734A-D2](https://codeforces.com/problemset/problem/734/A)
 - [x] [CF791A-D2](https://codeforces.com/problemset/problem/791/A)
 - [x] [CF344A-D2](https://codeforces.com/problemset/problem/344/A)
-- [ ] [CF339A-D2](http://codeforces.com/problemset/problem/339/A)
-- [ ] [CF520A-D2](https://codeforces.com/problemset/problem/520/A)
 
-### D-01
+### 31-01-2025 (Monday)
 
-- [x] 🟢 [CF41A-D2] (https://codeforces.com/problemset/problem/41/A)  *(implementation / strings / \*800)*
-- [x] 🟢 [CF546A-D2](https://codeforces.com/problemset/problem/546/A) *(brute force / implementation / math / \*800)*
-- [x] 🟢 [CF110A-D2](https://codeforces.com/problemset/problem/110/A) *(implementation / \*800)*
-- [x] 🟢 [CF271A-D2](https://codeforces.com/problemset/problem/271/A) *(brute force / \*800)*
-- [x] 🟢 [CF467A-D2](https://codeforces.com/problemset/problem/467/A) *(implementation / \*800)*
+- [x] 🟢 [CF41A-D2] (https://codeforces.com/problemset/problem/41/A) _(implementation / strings / \*800)_
+- [x] 🟢 [CF546A-D2](https://codeforces.com/problemset/problem/546/A) _(brute force / implementation / math / \*800)_
+- [x] 🟢 [CF110A-D2](https://codeforces.com/problemset/problem/110/A) _(implementation / \*800)_
+- [x] 🟢 [CF271A-D2](https://codeforces.com/problemset/problem/271/A) _(brute force / \*800)_
+- [x] 🟢 [CF467A-D2](https://codeforces.com/problemset/problem/467/A) _(implementation / \*800)_
 
-### D-02
+### 01-02-2025 (Tuesday)
 
-- [x] 🟢 [CF977A-D3](https://codeforces.com/problemset/problem/977/A) *(implementation / \*800)*
+- [x] 🟢 [CF977A-D3](https://codeforces.com/problemset/problem/977/A) _(implementation / \*800)_
 - [x] 🟢 [CF116A-D2](https://codeforces.com/problemset/problem/116/A)
 - [x] 🟢 [CF1030A-D2](https://codeforces.com/problemset/problem/1030/A)
 - [x] 🟢 [CF61A-D2](https://codeforces.com/problemset/problem/61/A)
 - [x] 🟢 [CF136A-D2](https://codeforces.com/problemset/problem/136/A)
 
-### D-03
+### 02-02-2025 (Wednesday)
 
 - [x] 🟡 [CF96A-D2](https://codeforces.com/problemset/problem/96/A)
 - [x] 🟢 [CF160A-D2](https://codeforces.com/problemset/problem/160/A)
@@ -214,40 +216,7 @@ With more focus on data structures and combinatorics
 - [x] [CF318A-D2](https://codeforces.com/problemset/problem/318/A)
 - [x] [CF149A-D2](https://codeforces.com/problemset/problem/149/A)
 
-### D-04
-
-- [ ] [CF580A-D2](https://codeforces.com/problemset/problem/580/A)
-- [ ] [CF208A-D2](https://codeforces.com/problemset/problem/208/A)
-- [ ] [CF337A-D2](https://codeforces.com/problemset/problem/337/A)
-- [ ] [CF34B-D2](https://codeforces.com/problemset/problem/34/B)
-- [ ] [CF313A-D2](https://codeforces.com/problemset/problem/313/A)
-
-### D-05
-
-- [ ] [CF476A-D2](https://codeforces.com/problemset/problem/476/A)
-- [ ] [CF118B-D2](https://codeforces.com/problemset/problem/118/B)
-- [ ] [CF58A-D2](https://codeforces.com/problemset/problem/58/A)
-- [ ] [CF118A-D2](https://codeforces.com/problemset/problem/118/A)
-- [ ] [CF479A-D2](https://codeforces.com/problemset/problem/479/A)
-
-### D-06
-
-- [ ] [CF122A-D2](https://codeforces.com/problemset/problem/122/A)
-- [ ] [CF131A-D2](https://codeforces.com/problemset/problem/131/A)
-- [ ] [CF339B-D2](https://codeforces.com/problemset/problem/339/B)
-- [ ] [CF230A-D2](https://codeforces.com/problemset/problem/230/A)
-- [ ] [CF579A-D2](https://codeforces.com/problemset/problem/579/A)
-
-
-### D-07
-
-- [ ] [CF158B-VK2012](https://codeforces.com/problemset/problem/158/B)
-- [ ] [CF617A-D2](https://codeforces.com/problemset/problem/617/A)
-- [ ] [CF500A-D2](https://codeforces.com/problemset/problem/500/A)
-- [ ] [CF43A-D2](http://codeforces.com/problemset/problem/43/A)
-- [ ] [CF1374C-D3](https://codeforces.com/problemset/problem/1374/C)
-
-## Week 02 (07-02-2026 -> 13-02-2026)
+## Week 02 (13-04-2026 -> 19-04-2026)
 
 - [x] [CF268A-D2](http://codeforces.com/contest/268/problem/A)
 
@@ -255,54 +224,91 @@ With more focus on data structures and combinatorics
 
 - [x] [CF2194A](https://codeforces.com/contest/2194/problem/A)
 - [x] [CF2194B](https://codeforces.com/contest/2194/problem/B)
-- [ ] [CF2194C](https://codeforces.com/contest/2194/problem/C)
-- [ ] [CF2194D](https://codeforces.com/contest/2194/problem/D)
-- [ ] [CF2194E](https://codeforces.com/contest/2194/problem/E)
-- [ ] [CF2194F1](https://codeforces.com/contest/2194/problem/F1)
-- [ ] [CF2194F2](https://codeforces.com/contest/2194/problem/F2)
 
+### 13-04-2026 (Monday)
 
+- [ ] [CF339A-D2](http://codeforces.com/problemset/problem/339/A)
+- [ ] [CF520A-D2](https://codeforces.com/problemset/problem/520/A)
+- [ ] [CF580A-D2](https://codeforces.com/problemset/problem/580/A)
+- [ ] [CF208A-D2](https://codeforces.com/problemset/problem/208/A)
 
+### 14-04-2026 (Tuesday)
 
+- [ ] [CF34B-D2](https://codeforces.com/problemset/problem/34/B)
+- [ ] [CF313A-D2](https://codeforces.com/problemset/problem/313/A)
+- [ ] [CF476A-D2](https://codeforces.com/problemset/problem/476/A)
+- [ ] [CF118B-D2](https://codeforces.com/problemset/problem/118/B)
 
-### D-08
+### 15-04-2026 (Wednesday)
 
-- [ ] [CF379A](https://codeforces.com/problemset/problem/379/A)
+- [ ] [CF118A-D2](https://codeforces.com/problemset/problem/118/A)
+- [ ] [CF479A-D2](https://codeforces.com/problemset/problem/479/A)
+- [ ] [CF122A-D2](https://codeforces.com/problemset/problem/122/A)
+- [ ] [CF131A-D2](https://codeforces.com/problemset/problem/131/A)
+
+### 16-04-2026 (Thursday)
+
+- [ ] [CF230A-D2](https://codeforces.com/problemset/problem/230/A)
+- [ ] [CF579A-D2](https://codeforces.com/problemset/problem/579/A)
+- [ ] [CF158B-VK2012](https://codeforces.com/problemset/problem/158/B)
+- [ ] [CF617A-D2](https://codeforces.com/problemset/problem/617/A)
+- [ ] [CF500A-D2](https://codeforces.com/problemset/problem/500/A)
+
+## Week 03 (20-04-2026 -> 26-04-2026)
+
+### 20-04-2026 (Monday) - [CONTEST] Codeforces Round 1078 (Div. 2) - Remaining
+
+- [ ] [CF2194C-D2](https://codeforces.com/contest/2194/problem/C)
+- [ ] [CF2194D-D2](https://codeforces.com/contest/2194/problem/D)
+- [ ] [CF2194E-D2](https://codeforces.com/contest/2194/problem/E)
+- [ ] [CF2194F1-D2](https://codeforces.com/contest/2194/problem/F1)
+- [ ] [CF2194F2-D2](https://codeforces.com/contest/2194/problem/F2)
+
+### 21-04-2026 (Tuesday)
+
+- [ ] [CF43A-D2](http://codeforces.com/problemset/problem/43/A)
+- [ ] [CF1374C-D3](https://codeforces.com/problemset/problem/1374/C)
+- [ ] [CF379A-D2](https://codeforces.com/problemset/problem/379/A)
 - [ ] [CF577A-D2](https://codeforces.com/problemset/problem/577/A)
 - [ ] [CF705A-D2](https://codeforces.com/problemset/problem/705/A)
+
+### 22-04-2026 (Wednesday)
+
 - [ ] [CF1353B-D3](https://codeforces.com/problemset/problem/1353/B)
 - [ ] [CF205A-D2](https://codeforces.com/problemset/problem/205/A)
+- [ ] [CF1343B-D2](https://codeforces.com/problemset/problem/1343/B)
+- [ ] [CF1328A-D2](https://codeforces.com/problemset/problem/1328/A)
+- [ ] [CF1335C-D2](https://codeforces.com/problemset/problem/1335/C)
 
-### D-09
+### 23-04-2026 (Thursday)
 
-- [ ] [CF1343B](https://codeforces.com/problemset/problem/1343/B)
-- [ ] [CF1328A](https://codeforces.com/problemset/problem/1328/A)
-- [ ] [CF1335C](https://codeforces.com/problemset/problem/1335/C)
-- [ ] [CF1352C](https://codeforces.com/problemset/problem/1352/C)
-- [ ] [CF706B](https://codeforces.com/problemset/problem/706/B)
+- [ ] [CF1352C-D2](https://codeforces.com/problemset/problem/1352/C)
+- [ ] [CF706B-D2](https://codeforces.com/problemset/problem/706/B)
+- [ ] [CF313B-D2](https://codeforces.com/problemset/problem/313/B)
+- [ ] [CF363B-D2](https://codeforces.com/problemset/problem/363/B)
+- [ ] [CF368B-D2](https://codeforces.com/problemset/problem/368/B)
 
-### D-10
+### 24-04-2026 (Friday)
 
-- [ ] [CF313B](https://codeforces.com/problemset/problem/313/B)
-- [ ] [CF363B](https://codeforces.com/problemset/problem/363/B)
-- [ ] [CF368B](https://codeforces.com/problemset/problem/368/B)
-- [ ] [CF519B](https://codeforces.com/problemset/problem/519/B)
-- [ ] [CF456A](https://codeforces.com/problemset/problem/456/A)
+- [ ] [CF519B-D2](https://codeforces.com/problemset/problem/519/B)
+- [ ] [CF456A-D2](https://codeforces.com/problemset/problem/456/A)
+- [ ] [CF82A-D2](https://codeforces.com/problemset/problem/82/A)
+- [ ] [CF270A-D2](https://codeforces.com/problemset/problem/270/A)
+- [ ] [CF492B-D2](https://codeforces.com/problemset/problem/492/B)
 
-### D-11
+### 25-04-2026 (Saturday)
 
-- [ ] [CF82A](https://codeforces.com/problemset/problem/82/A)
-- [ ] [CF270A](https://codeforces.com/problemset/problem/270/A)
-- [ ] [CF492B](https://codeforces.com/problemset/problem/492/B)
-- [ ] [CF467B](https://codeforces.com/problemset/problem/467/B)
-- [ ] [CF25A](https://codeforces.com/problemset/problem/25/A)
+- [ ] [CF467B-D2](https://codeforces.com/problemset/problem/467/B)
+- [ ] [CF25A-D2](https://codeforces.com/problemset/problem/25/A)
+- [ ] [CF1490C-D2](https://codeforces.com/problemset/problem/1490/C)
+- [ ] [CF1360C-D2](https://codeforces.com/problemset/problem/1360/C)
+- [ ] [CF1409A-D2](https://codeforces.com/problemset/problem/1409/A)
 
-### D-12
+### 26-04-2026 (Sunday)
 
-- [ ] [1490C]
-- [ ] [1360C]
-- [ ] [1409A]
-- [ ] [1472B]
-- [ ] [1327A]
+- [ ] [CF1472B-D2](https://codeforces.com/problemset/problem/1472/B)
+- [ ] [CF1327A-D2](https://codeforces.com/problemset/problem/1327/A)
 
+## Week 04 (27-04-2026 -> 03-05-2026)
 
+- [ ] _Week 04 plan pending_

@@ -1,2 +1,6 @@
 .vscode/
 *.exe
+.clang-format
+.clang-tidy
+compile_flags.txt
+testing/

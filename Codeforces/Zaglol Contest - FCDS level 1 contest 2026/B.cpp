@@ -31,8 +31,16 @@ typedef vector<ll> vll;
 typedef pair<int, int> ii;
 typedef vector<ii> vii;
 
+const double PI = acos(-1.0);
+const double EPS = 1e-9;
+const int MOD = 1e9 + 7;
+const int INF = 1e9;
+const ll LLINF = 4e18;
+
 #define mp make_pair
 #define pb push_back
+#define f first
+#define s second
 #define all(v) ((v).begin()), ((v).end())
 #define sz(v) ((int)((v).size()))
 #define clr(v, d) memset(v, d, sizeof(v))
@@ -46,10 +54,13 @@ int main()
     cin.tie(NULL);
     cout.tie(NULL);
 
-    string s, t, result;
-    cin >> s >> t;
-    reverse(all(s));
-    result = (s == t) ? "YES" : "NO";
-    cout << result;
+    ll n;
+    cin >> n;
+    ll *a = new ll[n];
+    for (ll i = 0; i < n; i++)
+    {
+        cin >> a[i];
+    }
+    for()
     return 0;
 }
