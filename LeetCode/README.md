@@ -78,7 +78,7 @@ This keeps learning in ascending order while still building enough solve volume 
 
 #### 18 Apr (Day 01)
 
-- [ ] [LC-26-remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+- [x] [LC-26-remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [ ] [LC-88-merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)
 - [ ] [LC-169-majority-element](https://leetcode.com/problems/majority-element)
 - [ ] [LC-189-rotate-array](https://leetcode.com/problems/rotate-array)
